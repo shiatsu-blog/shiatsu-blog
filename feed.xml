@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Shiatsu</title>
-    <link href="http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog/feed.xml" rel="self" />
-    <link href="http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog" />
-    <updated>2020-03-09T20:46:58+01:00</updated>
+    <link href="https://shiatsu-blog.github.io/shiatsu-blog/feed.xml" rel="self" />
+    <link href="https://shiatsu-blog.github.io/shiatsu-blog" />
+    <updated>2020-03-09T20:48:49+01:00</updated>
     <author>
         <name>Shiatsu Blogger</name>
     </author>
-    <id>http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog</id>
+    <id>https://shiatsu-blog.github.io/shiatsu-blog</id>
 
     <entry>
         <title>Mein erster Stufenkurs</title>
         <author>
             <name>Shiatsu Blogger</name>
         </author>
-        <link href="http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog/mein-erster-stufenkurs.html"/>
-        <id>http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog/mein-erster-stufenkurs.html</id>
+        <link href="https://shiatsu-blog.github.io/shiatsu-blog/mein-erster-stufenkurs.html"/>
+        <id>https://shiatsu-blog.github.io/shiatsu-blog/mein-erster-stufenkurs.html</id>
             <category term="Erfahrung"/>
             <category term="Einführung"/>
 
@@ -47,8 +47,8 @@
         <author>
             <name>Shiatsu Blogger</name>
         </author>
-        <link href="http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog/wie-kam-ich-zum-shiatsu.html"/>
-        <id>http://shiatsu-blog.github.com/shiatsu-blog/shiatsu-blog/wie-kam-ich-zum-shiatsu.html</id>
+        <link href="https://shiatsu-blog.github.io/shiatsu-blog/wie-kam-ich-zum-shiatsu.html"/>
+        <id>https://shiatsu-blog.github.io/shiatsu-blog/wie-kam-ich-zum-shiatsu.html</id>
 
         <updated>2020-03-09T19:22:01+01:00</updated>
             <summary>
