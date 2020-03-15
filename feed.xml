@@ -3,7 +3,7 @@
     <title>Shiatsu</title>
     <link href="https://shiatsu-blog.github.io/shiatsu-blog/feed.xml" rel="self" />
     <link href="https://shiatsu-blog.github.io/shiatsu-blog" />
-    <updated>2020-03-15T21:17:38+01:00</updated>
+    <updated>2020-03-15T21:21:12+01:00</updated>
     <author>
         <name>Shiatsu Blogger</name>
     </author>
@@ -16,8 +16,11 @@
         </author>
         <link href="https://shiatsu-blog.github.io/shiatsu-blog/energetische-wahrnehmung.html"/>
         <id>https://shiatsu-blog.github.io/shiatsu-blog/energetische-wahrnehmung.html</id>
+            <category term="Meridian"/>
+            <category term="Erfahrung"/>
+            <category term="Energie"/>
 
-        <updated>2020-03-15T21:17:23+01:00</updated>
+        <updated>2020-03-15T21:21:04+01:00</updated>
             <summary>
                 <![CDATA[
                     Neben manuellen Techniken, achtet man im Shiatsu auch auf andere Ebenen der Wahrnehmung, eine davon ist die energetische Ebene. Die energetische Wahrnehmung ist eine subjektiv individuelle Erfahrung und streng wissenschaftlich (so weit mir bekannt), nicht bewiesen. Damit meine ich, dass jede Person, dies anders beschreibt&hellip;
